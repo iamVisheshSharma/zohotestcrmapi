@@ -1,0 +1,5 @@
+###
+GET http://localhost:3000
+
+###
+POST http://localhost:3000/refresh-token/1000.010efa2c20d02fbe834a078578a7db8c.83d0e88fe9f599fd2be72cd39975b291
